@@ -1,6 +1,6 @@
-# 🎓 Classmate AI  
+# 🎓studymate Ai
 
-**Classmate AI** is an interactive **chat-based application** where users can upload **documents, websites, or YouTube videos** as knowledge sources, and then ask **questions in natural language**.  
+**Studymate AI** is an interactive **chat-based application** where users can upload **documents, websites, or YouTube videos** as knowledge sources, and then ask **questions in natural language**.  
 
 The system uses **Retrieval-Augmented Generation (RAG)** to fetch relevant context from the uploaded sources and generate intelligent responses.  
 
@@ -103,12 +103,3 @@ npm run dev
 docker run -p 6333:6333 qdrant/qdrant
 ```
 Qdrant UI will be available at 👉 http://localhost:6333/dashboard
-
-### Screenshots
-
-### Landing Pages
-![Landing Page](./assets/landingpage_1.png)
-![Landing Page](./assets/landingpage_2.png)
-
-### Chat and Upload Interface
-![Upload Panel](./assets/chatpage.png)
